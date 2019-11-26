@@ -1,0 +1,15 @@
+{
+  "data": {
+    "customer": {
+        "id": 25,
+        "firstName": "ABC",
+        "lastName": "XYZ",
+        "phoneNumber": "123456789",
+        "email": "abc.xyz@mail.com",
+        "place": "CLOUD",
+        "date": "2019-11-01",
+        "occupation": "Doctor",
+        "type": "CS"
+    }
+  }
+}

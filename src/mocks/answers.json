@@ -1,0 +1,220 @@
+{
+  "answers": [
+    {
+      "feedbackQuestionCategory":"PS",
+      "feedbackQuestionSubCategory": "Section 1: Response",
+      "feedbackQuestionId":"PS101",
+      "feedbackQuestion":"Overall experience with our service",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"PS",
+      "feedbackQuestionSubCategory": "Section 1: Response",
+      "feedbackQuestionId":"PS102",
+      "feedbackQuestion":"Executive's support and knowledge as per your requirement",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"PS",
+      "feedbackQuestionSubCategory": "Section 1: Response",
+      "feedbackQuestionId":"PS103",
+      "feedbackQuestion":"Response time of our executive",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"PS",
+      "feedbackQuestionSubCategory": "Section 2: Product Quality",
+      "feedbackQuestionId":"PS201",
+      "feedbackQuestion":"Comprehensiveness of our product offer",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"PS",
+      "feedbackQuestionSubCategory": "Section 2: Product Quality",
+      "feedbackQuestionId":"PS202",
+      "feedbackQuestion":"Product prices as compare to other competitors",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"PS",
+      "feedbackQuestionSubCategory": "Section 3: Overall PreSales Experience",
+      "feedbackQuestionId":"PS301",
+      "feedbackQuestion":"How would you rate your overall PreSales experience?",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"AP",
+      "feedbackQuestionSubCategory": "Section 1: Application",
+      "feedbackQuestionId":"AP101",
+      "feedbackQuestion":"Overall experience with our online/offline application form filling process and submission",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"AP",
+      "feedbackQuestionSubCategory": "Section 1: Application",
+      "feedbackQuestionId":"AP102",
+      "feedbackQuestion":"Executive's support during form filling",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"AP",
+      "feedbackQuestionSubCategory": "Section 1: Application",
+      "feedbackQuestionId":"AP103",
+      "feedbackQuestion":"Document requirement & submission process",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"AP",
+      "feedbackQuestionSubCategory": "Section 1: Application",
+      "feedbackQuestionId":"AP104",
+      "feedbackQuestion":"Payment gateway and option availability",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"AP",
+      "feedbackQuestionSubCategory": "Section 2: Underwriting/Issuance",
+      "feedbackQuestionId":"AP201",
+      "feedbackQuestion":"Executive support and guidance during U/W questioner filling",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"AP",
+      "feedbackQuestionSubCategory": "Section 2: Underwriting/Issuance",
+      "feedbackQuestionId":"AP202",
+      "feedbackQuestion":"Time taken for the issuance process",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"AP",
+      "feedbackQuestionSubCategory": "Section 2: Underwriting/Issuance",
+      "feedbackQuestionId":"AP203",
+      "feedbackQuestion":"Query handling during the process",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"AP",
+      "feedbackQuestionSubCategory": "Section 3: Overall Application Processing Experience",
+      "feedbackQuestionId":"AP301",
+      "feedbackQuestion":"How would you rate your overall Application Processing experience?",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 1: Appointment",
+      "feedbackQuestionId":"CS101",
+      "feedbackQuestion":"Overall experience with our Services",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 1: Appointment",
+      "feedbackQuestionId":"CS102",
+      "feedbackQuestion":"Executive's support during visit/call",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 1: Appointment",
+      "feedbackQuestionId":"CS103",
+      "feedbackQuestion":"Appointment available within reasonable amount of time",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 1: Appointment",
+      "feedbackQuestionId":"CS104",
+      "feedbackQuestion":"Turn around time",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 1: Appointment",
+      "feedbackQuestionId":"CS105",
+      "feedbackQuestion":"Keeping you informed if appointment time was delayed",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 2: Our Executive",
+      "feedbackQuestionId":"CS201",
+      "feedbackQuestion":"The courtesy of our executive who addressed your query",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 2: Our Executive",
+      "feedbackQuestionId":"CS202",
+      "feedbackQuestion":"Efficiency of our executive to help within min time duration",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 2: Our Executive",
+      "feedbackQuestionId":"CS203",
+      "feedbackQuestion":"Proces knowledge of our executive",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 3: Our Communication with You",
+      "feedbackQuestionId":"CS301",
+      "feedbackQuestion":"You are answered/attended promptly",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 3: Our Communication with You",
+      "feedbackQuestionId":"CS302",
+      "feedbackQuestion":"Helped what ever is requested",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 3: Our Communication with You",
+      "feedbackQuestionId":"CS303",
+      "feedbackQuestion":"Explanation of the procedure",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 3: Our Communication with You",
+      "feedbackQuestionId":"CS304",
+      "feedbackQuestion":"Effectiveness of the information provided",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    },
+    {
+      "feedbackQuestionCategory":"CS",
+      "feedbackQuestionSubCategory": "Section 4: Overall Contract Servicing Experience",
+      "feedbackQuestionId":"CS401",
+      "feedbackQuestion":"How would you rate your overall Contract Servicing experience?",
+      "feedbackAnswer":null,
+      "mandatory":"Y"
+    }
+  ]
+}
